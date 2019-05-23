@@ -1,2 +1,2 @@
-# thesis
-Source code associated with my MSc
+# Thesis
+Source code associated with my MSc Thesis.
